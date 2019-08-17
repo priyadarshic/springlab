@@ -24,7 +24,7 @@ public class WorldService implements IWorldService {
 	 * 
 	 */
 	
-	//Change Test
+	//Change Test Change 2
 	private WorldBean wBean = new WorldBean("World Bean");
 	
 	@Override
