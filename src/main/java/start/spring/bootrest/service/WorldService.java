@@ -23,6 +23,8 @@ public class WorldService implements IWorldService {
 	 * Consider defining a bean of type 'start.spring.bootrest.entity.WorldBean' in your configuration.
 	 * 
 	 */
+	
+	//Change Test
 	private WorldBean wBean = new WorldBean("World Bean");
 	
 	@Override
